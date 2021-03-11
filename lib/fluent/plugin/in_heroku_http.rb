@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'fluent/plugin/in_syslog'
 require 'fluent/plugin/in_http'
 require_relative 'parser_logplex'
