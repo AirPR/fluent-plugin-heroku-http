@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Fluent
   module Plugin
     class Logplex < Parser
